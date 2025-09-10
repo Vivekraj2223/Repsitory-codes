@@ -1,1 +1,9 @@
+# For printing pattern
+N = input("Enter how much you want to print ")
+i = 1
+while i<=int(N) :
+    print(i * "*")
+    i = i+1
+
+
 

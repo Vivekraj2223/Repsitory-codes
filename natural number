@@ -1,1 +1,8 @@
+// printing natural no.
+Scanner sc = new Scanner(System.in);
+System.out.println("printing no.");
+int i = nextInt();
+for ()
+
+
 

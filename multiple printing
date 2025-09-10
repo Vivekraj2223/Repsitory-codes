@@ -1,1 +1,10 @@
+# For printing something multiple times along with sentence
+N = input("Enter how much you want to print ")
+word = input("Enter the word or sentence you want to print")
+i = 1
+while i<=int(N) :
+    print(str(i) + word)
+    i = i+1
+
+
 

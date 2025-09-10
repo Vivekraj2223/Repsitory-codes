@@ -1,1 +1,32 @@
+# Adding and substracting 2 numbers
+'''a=3
+b=2
+c=a+b
+print(c)
+d=a-b
+print(d)
+e=a*b
+print(e)'''
+
+# Dividing numbers
+"""a = int(4)
+b = int(3)
+c= int(a/b)
+print(c)
+d=float(a/b)
+print(d)"""
+    
+# changing of data type
+'''a ="tony"
+print(a)
+print("hii "+ a + " stark")
+print("age of " + a + "stark is " + str(18))'''
+
+
+
+# Multiplying of number
+'''a = 10
+b = 5
+c = a*b/(a-b)
+print(c)'''
 
